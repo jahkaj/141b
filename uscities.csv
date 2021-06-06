@@ -1,0 +1,70 @@
+city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,id,University_Type
+New York,New York,NY,New York,36061,New York,40.6943,-73.9249,18713220,10715,polygon,FALSE,TRUE,America/New_York,1,1840034016,Public
+Los Angeles,Los Angeles,CA,California,6037,Los Angeles,34.1139,-118.4068,12750807,3276,polygon,FALSE,TRUE,America/Los_Angeles,1,1840020491,Public
+Chicago,Chicago,IL,Illinois,17031,Cook,41.8373,-87.6862,8604203,4574,polygon,FALSE,TRUE,America/Chicago,1,1840000494,Public
+Miami,Miami,FL,Florida,12086,Miami-Dade,25.7839,-80.2102,6445545,5019,polygon,FALSE,TRUE,America/New_York,1,1840015149,Public
+Dallas,Dallas,TX,Texas,48113,Dallas,32.7936,-96.7662,5743938,1526,polygon,FALSE,TRUE,America/Chicago,1,1840019440,Private
+Philadelphia,Philadelphia,PA,Pennsylvania,42101,Philadelphia,40.0077,-75.1339,5649300,4554,polygon,FALSE,TRUE,America/New_York,1,1840000673,Private
+Houston,Houston,TX,Texas,48201,Harris,29.7863,-95.3889,5464251,1399,polygon,FALSE,TRUE,America/Chicago,1,1840020925,Private
+Atlanta,Atlanta,GA,Georgia,13121,Fulton,33.7627,-84.4224,5449398,1441,polygon,FALSE,TRUE,America/New_York,1,1840013660,Public
+Washington,Washington,DC,District of Columbia,11001,District of Columbia,38.9047,-77.0163,5379184,4457,polygon,FALSE,TRUE,America/New_York,1,1840006060,Private
+Boston,Boston,MA,Massachusetts,25025,Suffolk,42.3188,-71.0846,4688346,5532,polygon,FALSE,TRUE,America/New_York,1,1840000455,Public
+Phoenix,Phoenix,AZ,Arizona,4013,Maricopa,33.5722,-112.0891,4219697,1253,polygon,FALSE,TRUE,America/Phoenix,1,1840020568,Private
+Seattle,Seattle,WA,Washington,53033,King,47.6211,-122.3244,3789215,3469,polygon,FALSE,TRUE,America/Los_Angeles,1,1840021117,Public
+San Francisco,San Francisco,CA,California,6075,San Francisco,37.7562,-122.443,3592294,7256,polygon,FALSE,TRUE,America/Los_Angeles,1,1840021543,Public
+Detroit,Detroit,MI,Michigan,26163,Wayne,42.3834,-83.1024,3506126,1864,polygon,FALSE,TRUE,America/Detroit,1,1840003971,Private
+San Diego,San Diego,CA,California,6073,San Diego,32.8312,-117.1225,3220118,1686,polygon,FALSE,TRUE,America/Los_Angeles,1,1840021990,Public
+Minneapolis,Minneapolis,MN,Minnesota,27053,Hennepin,44.9635,-93.2678,2977172,3071,polygon,FALSE,TRUE,America/Chicago,1,1840007830,Public
+Tampa,Tampa,FL,Florida,12057,Hillsborough,27.9942,-82.4451,2908063,1353,polygon,FALSE,TRUE,America/New_York,1,1840015982,Private
+Denver,Denver,CO,Colorado,8031,Denver,39.7621,-104.8759,2876625,1831,polygon,FALSE,TRUE,America/Denver,1,1840018789,Private
+Brooklyn,Brooklyn,NY,New York,36047,Kings,40.6501,-73.9496,2559903,14221,polygon,FALSE,TRUE,America/New_York,1,1840034030,Private
+Queens,Queens,NY,New York,36081,Queens,40.7498,-73.7976,2230722,7885,polygon,FALSE,TRUE,America/New_York,1,1840034002,Private
+Riverside,Riverside,CA,California,6065,Riverside,33.9381,-117.3948,2107852,1574,polygon,FALSE,TRUE,America/Los_Angeles,1,1840020551,Private
+Baltimore,Baltimore,MD,Maryland,24510,Baltimore,39.3051,-76.6144,2106068,2830,polygon,FALSE,TRUE,America/New_York,1,1840001592,Private
+Las Vegas,Las Vegas,NV,Nevada,32003,Clark,36.2333,-115.2654,2104198,1773,polygon,FALSE,TRUE,America/Los_Angeles,1,1840020364,Private
+Portland,Portland,OR,Oregon,41051,Multnomah,45.5372,-122.65,2074775,1894,polygon,FALSE,TRUE,America/Los_Angeles,1,1840019941,Private
+San Antonio,San Antonio,TX,Texas,48029,Bexar,29.4658,-98.5253,2049293,1231,polygon,FALSE,TRUE,America/Chicago,1,1840022220,Private
+St. Louis,St. Louis,MO,Missouri,29510,St. Louis,38.6358,-90.2451,2024074,1879,polygon,FALSE,TRUE,America/Chicago,1,1840001651,Private
+Sacramento,Sacramento,CA,California,6067,Sacramento,38.5667,-121.4683,1898019,2029,polygon,FALSE,TRUE,America/Los_Angeles,1,1840021491,Private
+Orlando,Orlando,FL,Florida,12095,Orange,28.4772,-81.3369,1822394,1003,polygon,FALSE,TRUE,America/New_York,1,1840015099,Private
+San Jose,San Jose,CA,California,6085,Santa Clara,37.3019,-121.8486,1798103,2218,polygon,FALSE,TRUE,America/Los_Angeles,1,1840021570,Private
+Cleveland,Cleveland,OH,Ohio,39035,Cuyahoga,41.4767,-81.6804,1710093,1893,polygon,FALSE,TRUE,America/New_York,1,1840000596,Private
+Pittsburgh,Pittsburgh,PA,Pennsylvania,42003,Allegheny,40.4396,-79.9762,1703266,2093,polygon,FALSE,TRUE,America/New_York,1,1840001254,Public
+Austin,Austin,TX,Texas,48453,Travis,30.3004,-97.7522,1687311,1181,polygon,FALSE,TRUE,America/Chicago,1,1840019590,Private
+Cincinnati,Cincinnati,OH,Ohio,39061,Hamilton,39.1413,-84.5061,1662691,1507,polygon,FALSE,TRUE,America/New_York,1,1840003814,Private
+Kansas City,Kansas City,MO,Missouri,29095,Jackson,39.1239,-94.5541,1636715,607,polygon,FALSE,TRUE,America/Chicago,1,1840008535,Private
+Manhattan,Manhattan,NY,New York,36061,New York,40.7834,-73.9662,1628706,27545,polygon,FALSE,TRUE,America/New_York,1,1840034000,Private
+Indianapolis,Indianapolis,IN,Indiana,18097,Marion,39.7771,-86.1458,1588961,935,polygon,FALSE,TRUE,America/Indiana/Indianapolis,1,1840030084,Private
+Columbus,Columbus,OH,Ohio,39049,Franklin,39.9862,-82.985,1562009,1582,polygon,FALSE,TRUE,America/New_York,1,1840003760,Private
+Charlotte,Charlotte,NC,North Carolina,37119,Mecklenburg,35.208,-80.8304,1512923,1113,polygon,FALSE,TRUE,America/New_York,1,1840014557,Private
+Virginia Beach,Virginia Beach,VA,Virginia,51810,Virginia Beach,36.7335,-76.0435,1478868,709,polygon,FALSE,TRUE,America/New_York,1,1840003871,Private
+Bronx,Bronx,NY,New York,36005,Bronx,40.8501,-73.8662,1418207,12862,polygon,FALSE,TRUE,America/New_York,1,1840033999,Private
+Milwaukee,Milwaukee,WI,Wisconsin,55079,Milwaukee,43.0642,-87.9673,1365787,2369,polygon,FALSE,TRUE,America/Chicago,1,1840003046,Private
+Providence,Providence,RI,Rhode Island,44007,Providence,41.823,-71.4187,1203230,3773,polygon,FALSE,TRUE,America/New_York,1,1840003289,Private
+Jacksonville,Jacksonville,FL,Florida,12031,Duval,30.3322,-81.6749,1181496,470,polygon,FALSE,TRUE,America/New_York,1,1840015031,Public
+Salt Lake City,Salt Lake City,UT,Utah,49035,Salt Lake,40.7777,-111.9306,1098526,699,polygon,FALSE,TRUE,America/Denver,1,1840021383,Private
+Nashville,Nashville,TN,Tennessee,47037,Davidson,36.1715,-86.7843,1081903,544,polygon,FALSE,TRUE,America/Chicago,1,1840036155,Public
+Richmond,Richmond,VA,Virginia,51760,Richmond,37.5295,-77.4756,1075798,1484,polygon,FALSE,TRUE,America/New_York,1,1840001698,Private
+Memphis,Memphis,TN,Tennessee,47157,Shelby,35.1046,-89.9773,1066967,792,polygon,FALSE,TRUE,America/Chicago,1,1840015457,Private
+Raleigh,Raleigh,NC,North Carolina,37183,Wake,35.8325,-78.6435,1038738,1254,polygon,FALSE,TRUE,America/New_York,1,1840014497,Public
+New Orleans,New Orleans,LA,Louisiana,22071,Orleans,30.0687,-89.9288,1020886,889,polygon,FALSE,TRUE,America/Chicago,1,1840001839,Private
+Louisville,Louisville,KY,Kentucky,21111,Jefferson,38.1663,-85.6485,1005654,905,polygon,FALSE,TRUE,America/New_York,1,1840030815,Private
+Oklahoma City,Oklahoma City,OK,Oklahoma,40109,Oklahoma,35.4676,-97.5136,972943,417,polygon,FALSE,TRUE,America/Chicago,2,1840020428,Private
+Bridgeport,Bridgeport,CT,Connecticut,9001,Fairfield,41.1918,-73.1953,924449,3470,polygon,FALSE,TRUE,America/New_York,2,1840004836,Public
+Buffalo,Buffalo,NY,New York,36029,Erie,42.9016,-78.8487,914341,2441,polygon,FALSE,TRUE,America/New_York,2,1840000386,Private
+Fort Worth,Fort Worth,TX,Texas,48439,Tarrant,32.7811,-97.3473,909585,1016,polygon,FALSE,TRUE,America/Chicago,2,1840020696,Private
+Hartford,Hartford,CT,Connecticut,9003,Hartford,41.7661,-72.6834,905152,2712,polygon,FALSE,TRUE,America/New_York,2,1840004773,Private
+Tucson,Tucson,AZ,Arizona,4019,Pima,32.1545,-110.8782,888486,889,polygon,FALSE,TRUE,America/Phoenix,2,1840022101,Private
+Omaha,Omaha,NE,Nebraska,31055,Douglas,41.2627,-96.0522,847819,1309,polygon,FALSE,TRUE,America/Chicago,2,1840009315,Public
+El Paso,El Paso,TX,Texas,48141,El Paso,31.8479,-106.4309,843386,1022,polygon,FALSE,TRUE,America/Denver,2,1840023252,Public
+Honolulu,Honolulu,HI,Hawaii,15003,Honolulu,21.3294,-157.846,820987,2200,polygon,FALSE,TRUE,Pacific/Honolulu,2,1840013305,Public
+McAllen,McAllen,TX,Texas,48215,Hidalgo,26.2273,-98.2471,804114,841,polygon,FALSE,TRUE,America/Chicago,2,1840021024,Private
+Albuquerque,Albuquerque,NM,New Mexico,35001,Bernalillo,35.1053,-106.6464,761195,1155,polygon,FALSE,TRUE,America/Denver,2,1840019176,Public
+Birmingham,Birmingham,AL,Alabama,1073,Jefferson,33.5277,-86.7987,739573,553,polygon,FALSE,TRUE,America/Chicago,2,1840006507,Public
+Sarasota,Sarasota,FL,Florida,12115,Sarasota,27.3386,-82.5431,722243,1528,polygon,FALSE,TRUE,America/New_York,2,1840015988,Private
+Dayton,Dayton,OH,Ohio,39113,Montgomery,39.7797,-84.1998,718353,978,polygon,FALSE,TRUE,America/New_York,2,1840034249,Public
+Rochester,Rochester,NY,New York,36055,Monroe,43.168,-77.6162,703952,2220,polygon,FALSE,TRUE,America/New_York,2,1840000373,Public
+Fresno,Fresno,CA,California,6019,Fresno,36.7831,-119.7941,703498,1789,polygon,FALSE,TRUE,America/Los_Angeles,2,1840020319,Private
+Allentown,Allentown,PA,Pennsylvania,42077,Lehigh,40.5961,-75.4756,683794,2672,polygon,FALSE,TRUE,America/New_York,2,1840001044,Private
+Tulsa,Tulsa,OK,Oklahoma,40143,Tulsa,36.1284,-95.9042,671033,784,polygon,FALSE,TRUE,America/Chicago,2,1840021672,Private
+Cape Coral,Cape Coral,FL,Florida,12071,Lee,26.6446,-81.9956,668382,708,polygon,FALSE,TRUE,America/New_York,2,1840015130,Private
