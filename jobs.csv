@@ -1,0 +1,144 @@
+,Salary Estimate,Rating,Company Name,Location,Founded,Type of ownership,Industry
+0,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Company - Private,Business Consulting
+3,75237.0,4.0,Jellysmack,Los Angeles,2016,Company - Private,Internet & Web Services
+5,82410.0,4.3,Intuit - Data,Los Angeles,1983,Company - Public,Computer Hardware Development
+6,77620.0,4.4,SoCalGas,Los Angeles,1929,Subsidiary or Business Segment,Energy & Utilities
+7,68483.0,4.4,Carfax,Ontario,1984,Subsidiary or Business Segment,Information Technology Support Services
+11,159100.0,3.6,Peraton,Seaside,2017,Company - Private,Information Technology Support Services
+12,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Company - Private,Shipping & Trucking
+13,113776.0,4.0,Uber,San Francisco,2009,Company - Public,Internet & Web Services
+14,24.5,3.9,Randstad General Staffing,Livermore,1960,Company - Public,HR Consulting
+15,65.0,4.6,CorTech,San Francisco,1999,Company - Private,Staffing & Subcontracting
+17,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Company - Public,Restaurants & Cafes
+18,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Company - Private,Investment & Asset Management
+20,52.5,4.3,LS Solutions,Temecula,Company - Private,HR Consulting,Human Resources & Staffing
+21,62.5,4.1,TEKsystems,Oakland,1983,Subsidiary or Business Segment,HR Consulting
+22,22.0,3.1,ActOne Group,Torrance,1964,Company - Private,HR Consulting
+24,59166.0,3.4,BrandRep,Santa Ana,2009,Company - Private,Advertising & Public Relations
+25,61.5,3.9,Robert Half,Oceanside,1948,Company - Public,HR Consulting
+26,30.0,4.0,AppleOne,Pasadena,1964,Company - Private,HR Consulting
+28,25.5,3.9,Robert Half,San Mateo,1948,Company - Public,HR Consulting
+0,66534.0,3.9,ABC Entertainment,Burbank,1996,Subsidiary or Business Segment,Broadcast Media
+1,63057.0,3.9,FanDuel,Los Angeles,2009,Company - Private,Sports & Recreation
+4,65617.0,4.0,Scripps Health,San Diego,1924,Nonprofit Organization,Health Care Services & Hospitals
+5,86248.0,4.3,Intel,Folsom,1968,Company - Public,Computer Hardware Development
+6,102143.0,4.0,SpaceX,Mountain View,2002,Company - Private,Aerospace & Defense
+7,24.0,3.2,Coaster Company of America,Santa Fe Springs,1979,Company - Private,Home Furniture & Housewares Stores
+8,70643.0,4.0,"Peachjar, Inc.",San Diego,2013,Company - Private,Advertising & Public Relations
+10,83307.0,3.6,SIS,Sunnyvale,1990,Company - Private,Information Technology Support Services
+11,83436.0,4.9,Point,Palo Alto,2015,Company - Private,Real Estate
+12,73.75,4.1,Accenture,Walnut Creek,1989,Company - Public,Business Consulting
+14,64415.0,3.3,Ross Stores,Dublin,1957,Company - Public,"Department, Clothing & Shoe Stores"
+15,80693.0,3.8,BD,San Diego,1897,Company - Public,Health Care Products Manufacturing
+17,77406.0,3.6,TikTok,Los Angeles,2016,Company - Private,Internet & Web Services
+18,58110.0,4.2,California Public Utilities Commission,Sacramento,1911,Government,State & Regional Agencies
+19,101381.0,4.3,Facebook App,Menlo Park,2004,Company - Public,Internet & Web Services
+22,77084.0,3.5,Disney Streaming,Santa Monica,2018,Company - Private,Internet & Web Services
+27,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,Government,Investment & Asset Management
+28,90000.0,3.9,Seer Interactive,San Diego,2002,Company - Private,Internet & Web Services
+29,84514.0,3.7,Tesla,Palo Alto,2003,Company - Public,Transportation Equipment Manufacturing
+2,102500.0,3.3,Webhelp Americas,San Jose,2000,Company - Private,HR Consulting
+4,77620.0,4.4,SoCalGas,Los Angeles,1929,Subsidiary or Business Segment,Energy & Utilities
+5,68483.0,4.4,Carfax,Ontario,1984,Subsidiary or Business Segment,Information Technology Support Services
+7,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Company - Private,Shipping & Trucking
+9,65.0,4.6,CorTech,San Francisco,1999,Company - Private,Staffing & Subcontracting
+10,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Company - Private,Investment & Asset Management
+11,62.5,4.1,TEKsystems,Oakland,1983,Subsidiary or Business Segment,HR Consulting
+12,22.0,3.1,ActOne Group,Torrance,1964,Company - Private,HR Consulting
+14,38.37,3.0,Alura Workforce Solutions,Rancho Cucamonga,2002,Company - Private,HR Consulting
+15,62258.0,4.2,"Healthcare Staffing Professionals, Inc.",Commerce,2006,Company - Public,Health Care Services & Hospitals
+16,135000.0,4.2,CyberCoders,San Francisco,1999,Subsidiary or Business Segment,HR Consulting
+17,28.0,4.0,AppleOne,Irvine,1964,Company - Private,HR Consulting
+18,40.0,3.3,Datamatics Global Services Inc,Alameda,1987,Company - Public,Information Technology Support Services
+21,47.5,4.3,"TalentBurst, Inc",Cupertino,2002,Company - Private,Information Technology Support Services
+22,33.0,4.1,Pacer Staffing LLC,Santa Ana,2004,Company - Private,Information Technology Support Services
+23,46.0,4.5,Formac,Sunnyvale,2013,Company - Private,Information Technology Support Services
+25,92486.0,3.6,TikTok,Mountain View,2016,Company - Private,Internet & Web Services
+26,61.0,2.9,PTS Consulting,Sunnyvale,2003,Company - Private,HR Consulting
+27,72653.0,3.6,TikTok,Mountain View,2016,Company - Private,Internet & Web Services
+28,92111.0,3.6,TikTok,Mountain View,2016,Company - Private,Internet & Web Services
+0,69693.0,4.2,Sunbit,Los Angeles,2016,Company - Private,Banking & Lending
+1,91259.0,3.7,Clinical Management Consultants,Garden Grove,Company - Private,HR Consulting,Human Resources & Staffing
+3,100400.0,4.0,UCLA Health,Los Angeles,1919,Company - Public,Health Care Services & Hospitals
+4,85000.0,4.0,Mission Asset Fund,San Francisco,Nonprofit Organization,Investment & Asset Management,Financial Services
+5,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Company - Private,Other Retail Stores
+6,130000.0,4.2,CyberCoders,Los Angeles,1999,Subsidiary or Business Segment,HR Consulting
+8,76770.0,4.1,University of California San Francisco,San Francisco,1864,College / University,Colleges & Universities
+9,76411.0,3.7,Shriners Children's,Sacramento,1925,Subsidiary or Business Segment,Health Care Services & Hospitals
+10,86248.0,4.3,Intel,Folsom,1968,Company - Public,Computer Hardware Development
+11,63057.0,3.9,FanDuel,Los Angeles,2009,Company - Private,Sports & Recreation
+12,66534.0,3.9,ABC Entertainment,Burbank,1996,Subsidiary or Business Segment,Broadcast Media
+13,65617.0,4.0,Scripps Health,San Diego,1924,Nonprofit Organization,Health Care Services & Hospitals
+14,102143.0,4.0,SpaceX,Mountain View,2002,Company - Private,Aerospace & Defense
+16,32.5,3.8,Agama Solutions,San Jose,Contract,Computer Hardware Development,Information Technology
+17,56253.0,3.9,JLL,Roseville,Company - Public,Real Estate,Real Estate
+18,80606.0,2.9,REVOLVE,Cerritos,2003,Company - Public,"Department, Clothing & Shoe Stores"
+20,77406.0,3.6,TikTok,Los Angeles,2016,Company - Private,Internet & Web Services
+21,101381.0,4.3,Facebook App,Menlo Park,2004,Company - Public,Internet & Web Services
+24,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,Government,Investment & Asset Management
+25,77084.0,3.5,Disney Streaming,Santa Monica,2018,Company - Private,Internet & Web Services
+28,62668.0,3.7,JT4,Edwards,2000,Company - Private,Aerospace & Defense
+1,104805.0,4.1,Blue Shield of California,Oakland,1939,Nonprofit Organization,Insurance Carriers
+2,50.0,3.9,"Yoh, A Day & Zimmermann Company",Burbank,1940,Company - Private,HR Consulting
+5,72500.0,2.7,"Semper Solaris Construction, Inc.",El Cajon,2012,Company - Private,Construction
+6,59005.0,3.1,99 Ranch Market,Buena Park,1984,Company - Private,Grocery Stores
+9,46.85,3.4,APR Consulting Inc,Pasadena,1980,Unknown,HR Consulting
+11,21.0,3.8,MMC Group,Rancho Cordova,1993,Company - Private,Business Consulting
+13,68777.0,3.5,Molina Healthcare,Long Beach,1980,Company - Public,Insurance Carriers
+14,60103.0,3.6,Panda Restaurant Group,Rosemead,1973,Company - Private,Restaurants & Cafes
+15,83436.0,3.3,FocusKPI Inc.,San Francisco,Company - Private,Advertising & Public Relations,Media & Communication
+16,93038.0,3.9,QuinStreet,Foster City,1999,Company - Public,Advertising & Public Relations
+17,67068.0,4.0,Siemens,Sacramento,2004,Subsidiary or Business Segment,Computer Hardware Development
+18,65000.0,4.2,Helm360,Oxnard,1997,Company - Private,Information Technology Support Services
+19,76443.0,3.8,Amazon.com Services LLC,Irvine,1994,Company - Public,Internet & Web Services
+20,96189.0,4.3,kastech software solutions,San Francisco,2008,Company - Private,Information Technology Support Services
+21,58.06,4.3,Tellus Solutions,Palo Alto,2006,Company - Private,Information Technology Support Services
+22,95879.0,3.7,Tesla,Fremont,2003,Company - Public,Transportation Equipment Manufacturing
+26,61650.0,4.1,Farm Credit West,Rocklin,1916,Self-employed,Banking & Lending
+28,72500.0,3.1,E Source,San Francisco,1987,Company - Private,Energy & Utilities
+0,97010.0,4.3,Intelliswift Software Inc,San Jose,1998,Company - Private,HR Consulting
+4,78127.0,3.8,Lucile Packard Foundation,Palo Alto,1991,Hospital,Health Care Services & Hospitals
+5,45492.0,3.1,FDM SINGAPORE CONSULTING PTE. LTD.,Marina,1991,Company - Public,Information Technology Support Services
+7,120183.0,3.7,Tesla,Palo Alto,2003,Company - Public,Transportation Equipment Manufacturing
+11,72113.0,3.8,Blueprint Test Preparation,Los Angeles,2005,Company - Public,Education & Training Services
+12,91960.0,4.2,Zazzle,San Francisco,1999,Company - Private,Internet & Web Services
+13,114000.0,3.9,DEUTSCHE BANK AKTIENGESELLSCHAFT,Marina,1870,Company - Public,Banking & Lending
+18,110000.0,3.7,SpanIdea Systems,Newark,2011,Company - Private,Computer Hardware Development
+19,93114.0,3.4,Bravado,San Francisco,Company - Private,Culture & Entertainment,"Arts, Entertainment & Recreation"
+24,74132.0,4.4,Denken Solutions Inc,Irvine,2010,Company - Private,Information Technology Support Services
+25,70073.0,3.5,Health Net of California,Woodland Hills,1984,Company - Public,Insurance Carriers
+27,82737.0,4.0,Disney Media & Entertainment Distribution,Santa Monica,1923,Company - Public,Film Production
+28,71884.0,3.8,Amazon.com Services LLC,Oxnard,1994,Company - Public,Internet & Web Services
+29,90000.0,4.6,Art of Problem Solving,San Diego,2003,School / School District,Education & Training Services
+0,76530.0,3.3,Bambee,Los Angeles,2016,Company - Private,Building & Personnel Services
+5,145000.0,3.5,HCTec,Monterey,2013,Contract,HR Consulting
+6,90000.0,3.8,ENERGY SOLUTIONS,Oakland,1995,Company - Private,Energy & Utilities
+12,73684.0,3.7,Synergis,Culver City,1997,Company - Private,HR Consulting
+14,111535.0,3.6,Lucid Motors,Newark,2007,Company - Public,Transportation Equipment Manufacturing
+15,85431.0,3.7,Astreya,Cupertino,2001,Company - Private,Information Technology Support Services
+16,77770.0,3.6,World Market,Alameda,1958,Company - Public,Home Furniture & Housewares Stores
+17,75000.0,2.9,Bay Area News Group,San Jose,1987,Company - Private,Publishing
+19,135627.0,3.7,Clinical Management Consultants,Saratoga,Company - Private,HR Consulting,Human Resources & Staffing
+20,82865.0,3.4,Golden State Foods,Irvine,1947,Company - Private,Wholesale
+21,125620.0,3.7,Clinical Management Consultants,Cathedral City,Company - Private,HR Consulting,Human Resources & Staffing
+24,146000.0,4.2,Stryker,San Jose,1941,Company - Public,Health Care Products Manufacturing
+25,36.16,4.0,UCLA Health,Los Angeles,1919,Company - Public,Health Care Services & Hospitals
+26,97916.0,3.9,PG&E Corporation,San Francisco,1905,Company - Public,Energy & Utilities
+27,53022.0,4.2,SHARP HEALTHCARE,La Mesa,1946,Nonprofit Organization,Health Care Services & Hospitals
+0,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Company - Private,Business Consulting
+3,75237.0,4.0,Jellysmack,Los Angeles,2016,Company - Private,Internet & Web Services
+4,145000.0,3.5,HCTec,Monterey,2013,Contract,HR Consulting
+6,77620.0,4.4,SoCalGas,Los Angeles,1929,Subsidiary or Business Segment,Energy & Utilities
+7,57453.0,4.2,Sunbit,Los Angeles,2016,Company - Private,Banking & Lending
+9,91259.0,3.7,Clinical Management Consultants,Garden Grove,Company - Private,HR Consulting,Human Resources & Staffing
+10,113776.0,4.0,Uber,San Francisco,2009,Company - Public,Internet & Web Services
+12,159100.0,3.6,Peraton,Seaside,2017,Company - Private,Information Technology Support Services
+14,100400.0,4.0,UCLA Health,Los Angeles,1919,Company - Public,Health Care Services & Hospitals
+15,24.5,3.9,Randstad General Staffing,Livermore,1960,Company - Public,HR Consulting
+16,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Company - Private,Other Retail Stores
+17,85000.0,4.0,Mission Asset Fund,San Francisco,Nonprofit Organization,Investment & Asset Management,Financial Services
+19,65.0,4.6,CorTech,San Francisco,1999,Company - Private,Staffing & Subcontracting
+20,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Company - Public,Restaurants & Cafes
+22,25.0,3.2,"Vigilance Health, Inc.",Ventura,2015,Company - Private,Health Care Services & Hospitals
+24,59166.0,3.4,BrandRep,Santa Ana,2009,Company - Private,Advertising & Public Relations
+29,30.0,4.0,AppleOne,Pasadena,1964,Company - Private,HR Consulting
