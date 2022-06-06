@@ -1,0 +1,216 @@
+,Salary,Rating,Company,Location,Founded,Ownership,Industry,county_fips,population,lng,lat
+0,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting,6085,80104,-122.0796,37.4001
+1,102143.0,4.0,SpaceX,Mountain View,2002,Private,Aerospace & Defense,6085,80104,-122.0796,37.4001
+2,92486.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services,6085,80104,-122.0796,37.4001
+3,72653.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services,6085,80104,-122.0796,37.4001
+4,92111.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services,6085,80104,-122.0796,37.4001
+5,102143.0,4.0,SpaceX,Mountain View,2002,Private,Aerospace & Defense,6085,80104,-122.0796,37.4001
+6,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting,6085,80104,-122.0796,37.4001
+7,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting,6085,80104,-122.0796,37.4001
+8,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting,6085,80104,-122.0796,37.4001
+9,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting,6085,80104,-122.0796,37.4001
+10,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+11,82410.0,4.3,Intuit - Data,Los Angeles,1983,Public,Computer Hardware Development,6037,12531334,-118.4068,34.1141
+12,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+13,63057.0,3.9,FanDuel,Los Angeles,2009,Private,Sports & Recreation,6037,12531334,-118.4068,34.1141
+14,77406.0,3.6,TikTok,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+15,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+16,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+17,100400.0,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+18,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting,6037,12531334,-118.4068,34.1141
+19,63057.0,3.9,FanDuel,Los Angeles,2009,Private,Sports & Recreation,6037,12531334,-118.4068,34.1141
+20,77406.0,3.6,TikTok,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+21,60149.0,3.1,Emjay,Los Angeles,,,,6037,12531334,-118.4068,34.1141
+22,72113.0,3.8,Blueprint Test Preparation,Los Angeles,2005,Public,Education & Training Services,6037,12531334,-118.4068,34.1141
+23,70000.0,4.0,Cloudinfraspecs,Los Angeles,,,,6037,12531334,-118.4068,34.1141
+24,76530.0,3.3,Bambee,Los Angeles,2016,Private,Building & Personnel Services,6037,12531334,-118.4068,34.1141
+25,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+26,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+27,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+28,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+29,100400.0,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+30,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+31,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+32,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+33,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+34,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+35,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+36,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+37,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+38,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+39,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+40,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting,6037,12531334,-118.4068,34.1141
+41,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services,6037,12531334,-118.4068,34.1141
+42,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+43,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities,6037,12531334,-118.4068,34.1141
+44,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending,6037,12531334,-118.4068,34.1141
+45,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals,6037,12531334,-118.4068,34.1141
+46,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting,6037,12531334,-118.4068,34.1141
+47,68483.0,4.4,Carfax,Ontario,1984,,Information Technology Support Services,6071,178194,-117.6064,34.0393
+48,68483.0,4.4,Carfax,Ontario,1984,,Information Technology Support Services,6071,178194,-117.6064,34.0393
+49,89000.0,3.5,Kinetic Personnel Group Inc.,Ontario,,,,6071,178194,-117.6064,34.0393
+50,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services,6053,116189,-121.8199,36.6224
+51,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services,6053,116189,-121.8199,36.6224
+52,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services,6053,116189,-121.8199,36.6224
+53,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Private,Shipping & Trucking,6075,3557982,-122.4449,37.7558
+54,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services,6075,3557982,-122.4449,37.7558
+55,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+56,97187.0,5.0,MoneyGeek.com,San Francisco,,,,6075,3557982,-122.4449,37.7558
+57,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Private,Shipping & Trucking,6075,3557982,-122.4449,37.7558
+58,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+59,135000.0,4.2,CyberCoders,San Francisco,1999,,HR Consulting,6075,3557982,-122.4449,37.7558
+60,85000.0,4.0,Mission Asset Fund,San Francisco,,,Financial Services,6075,3557982,-122.4449,37.7558
+61,76770.0,4.1,University of California San Francisco,San Francisco,1864,,Colleges & Universities,6075,3557982,-122.4449,37.7558
+62,97187.0,5.0,MoneyGeek.com,San Francisco,,,,6075,3557982,-122.4449,37.7558
+63,83436.0,3.3,FocusKPI Inc.,San Francisco,,,Media & Communication,6075,3557982,-122.4449,37.7558
+64,96189.0,4.3,kastech software solutions,San Francisco,2008,Private,Information Technology Support Services,6075,3557982,-122.4449,37.7558
+65,72500.0,3.1,E Source,San Francisco,1987,Private,Energy & Utilities,6075,3557982,-122.4449,37.7558
+66,91960.0,4.2,Zazzle,San Francisco,1999,Private,Internet & Web Services,6075,3557982,-122.4449,37.7558
+67,93114.0,3.4,Bravado,San Francisco,,,"Arts, Entertainment & Recreation",6075,3557982,-122.4449,37.7558
+68,97916.0,3.9,PG&E Corporation,San Francisco,1905,Public,Energy & Utilities,6075,3557982,-122.4449,37.7558
+69,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services,6075,3557982,-122.4449,37.7558
+70,85000.0,4.0,Mission Asset Fund,San Francisco,,,Financial Services,6075,3557982,-122.4449,37.7558
+71,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+72,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services,6075,3557982,-122.4449,37.7558
+73,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+74,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services,6075,3557982,-122.4449,37.7558
+75,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+76,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services,6075,3557982,-122.4449,37.7558
+77,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting,6075,3557982,-122.4449,37.7558
+78,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting,6001,88412,-121.7607,37.6868
+79,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting,6001,88412,-121.7607,37.6868
+80,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting,6001,88412,-121.7607,37.6868
+81,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting,6001,88412,-121.7607,37.6868
+82,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting,6001,88412,-121.7607,37.6868
+83,45042.0,5.0,Confidential,Visalia,,,,6107,235184,-119.3269,36.3276
+84,45042.0,5.0,Confidential,Visalia,,,,6107,235184,-119.3269,36.3276
+85,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes,6037,23842,-118.6689,34.1375
+86,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes,6037,23842,-118.6689,34.1375
+87,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes,6037,23842,-118.6689,34.1375
+88,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes,6037,23842,-118.6689,34.1375
+89,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Private,Investment & Asset Management,6073,3178495,-117.1222,32.8313
+90,65617.0,4.0,Scripps Health,San Diego,1924,,Health Care Services & Hospitals,6073,3178495,-117.1222,32.8313
+91,70643.0,4.0,"Peachjar, Inc.",San Diego,2013,Private,Advertising & Public Relations,6073,3178495,-117.1222,32.8313
+92,80693.0,3.8,BD,San Diego,1897,Public,Health Care Products Manufacturing,6073,3178495,-117.1222,32.8313
+93,90000.0,3.9,Seer Interactive,San Diego,2002,Private,Internet & Web Services,6073,3178495,-117.1222,32.8313
+94,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Private,Investment & Asset Management,6073,3178495,-117.1222,32.8313
+95,65617.0,4.0,Scripps Health,San Diego,1924,,Health Care Services & Hospitals,6073,3178495,-117.1222,32.8313
+96,90000.0,4.6,Art of Problem Solving,San Diego,2003,,Education & Training Services,6073,3178495,-117.1222,32.8313
+97,100800.0,4.3,LS Solutions,Temecula,,,Human Resources & Staffing,6065,113117,-117.1315,33.4928
+98,120000.0,4.1,TEKsystems,Oakland,1983,,HR Consulting,6001,422575,-122.2166,37.7904
+99,120000.0,4.1,TEKsystems,Oakland,1983,,HR Consulting,6001,422575,-122.2166,37.7904
+100,104805.0,4.1,Blue Shield of California,Oakland,1939,,Insurance Carriers,6001,422575,-122.2166,37.7904
+101,59812.0,5.0,Campaign Stars,Oakland,,,,6001,422575,-122.2166,37.7904
+102,90000.0,3.8,ENERGY SOLUTIONS,Oakland,1995,Private,Energy & Utilities,6001,422575,-122.2166,37.7904
+103,42240.0,3.1,ActOne Group,Torrance,1964,Private,HR Consulting,6037,144430,-118.3416,33.8346
+104,42240.0,3.1,ActOne Group,Torrance,1964,Private,HR Consulting,6037,144430,-118.3416,33.8346
+105,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations,6059,332610,-117.8819,33.7367
+106,63360.0,4.1,Pacer Staffing LLC,Santa Ana,2004,Private,Information Technology Support Services,6059,332610,-117.8819,33.7367
+107,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations,6059,332610,-117.8819,33.7367
+108,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations,6059,332610,-117.8819,33.7367
+109,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations,6059,332610,-117.8819,33.7367
+110,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations,6059,332610,-117.8819,33.7367
+111,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting,6073,175694,-117.3083,33.2247
+112,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting,6073,175694,-117.3083,33.2247
+113,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting,6073,175694,-117.3083,33.2247
+114,57600.0,4.0,AppleOne,Pasadena,1964,Private,HR Consulting,6037,142017,-118.139,34.1597
+115,89952.0,3.4,APR Consulting Inc,Pasadena,1980,,HR Consulting,6037,142017,-118.139,34.1597
+116,57600.0,4.0,AppleOne,Pasadena,1964,Private,HR Consulting,6037,142017,-118.139,34.1597
+117,48960.0,3.9,Robert Half,San Mateo,1948,Public,HR Consulting,6081,103619,-122.3121,37.5522
+118,66534.0,3.9,ABC Entertainment,Burbank,1996,,Broadcast Media,6037,103411,-118.3235,34.1879
+119,66534.0,3.9,ABC Entertainment,Burbank,1996,,Broadcast Media,6037,103411,-118.3235,34.1879
+120,96000.0,3.9,"Yoh, A Day & Zimmermann Company",Burbank,1940,Private,HR Consulting,6037,103411,-118.3235,34.1879
+121,86248.0,4.3,Intel,Folsom,1968,Public,Computer Hardware Development,6067,79584,-121.1422,38.6668
+122,86248.0,4.3,Intel,Folsom,1968,Public,Computer Hardware Development,6067,79584,-121.1422,38.6668
+123,46080.0,3.2,Coaster Company of America,Santa Fe Springs,1979,Private,Home Furniture & Housewares Stores,6037,17643,-118.0625,33.9329
+124,83307.0,3.6,SIS,Sunnyvale,1990,Private,Information Technology Support Services,6085,152569,-122.0255,37.3836
+125,88320.0,4.5,Formac,Sunnyvale,2013,Private,Information Technology Support Services,6085,152569,-122.0255,37.3836
+126,117120.0,2.9,PTS Consulting,Sunnyvale,2003,Private,HR Consulting,6085,152569,-122.0255,37.3836
+127,100800.0,5.0,Volto Consulting,Sunnyvale,,,,6085,152569,-122.0255,37.3836
+128,140001.0,4.8,Yugabyte,Sunnyvale,,,,6085,152569,-122.0255,37.3836
+129,140001.0,4.8,Yugabyte,Sunnyvale,,,,6085,152569,-122.0255,37.3836
+130,140001.0,4.8,Yugabyte,Sunnyvale,,,,6085,152569,-122.0255,37.3836
+131,83436.0,4.9,Point,Palo Alto,2015,Private,Real Estate,6085,67973,-122.1468,37.3905
+132,84514.0,3.7,Tesla,Palo Alto,2003,Public,Transportation Equipment Manufacturing,6085,67973,-122.1468,37.3905
+133,111475.20000000001,4.3,Tellus Solutions,Palo Alto,2006,Private,Information Technology Support Services,6085,67973,-122.1468,37.3905
+134,78127.0,3.8,Lucile Packard Foundation,Palo Alto,1991,,Health Care Services & Hospitals,6085,67973,-122.1468,37.3905
+135,120183.0,3.7,Tesla,Palo Alto,2003,Public,Transportation Equipment Manufacturing,6085,67973,-122.1468,37.3905
+136,141600.0,4.1,Accenture,Walnut Creek,1989,Public,Business Consulting,6013,69836,-122.0399,37.9024
+137,64415.0,3.3,Ross Stores,Dublin,1957,Public,"Department, Clothing & Shoe Stores",6001,63856,-121.8963,37.7161
+138,58110.0,4.2,California Public Utilities Commission,Sacramento,1911,,State & Regional Agencies,6067,1882358,-121.4685,38.5677
+139,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,,Investment & Asset Management,6067,1882358,-121.4685,38.5677
+140,76411.0,3.7,Shriners Children's,Sacramento,1925,,Health Care Services & Hospitals,6067,1882358,-121.4685,38.5677
+141,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,,Investment & Asset Management,6067,1882358,-121.4685,38.5677
+142,67068.0,4.0,Siemens,Sacramento,2004,,Computer Hardware Development,6067,1882358,-121.4685,38.5677
+143,101381.0,4.3,Facebook App,Menlo Park,2004,Public,Internet & Web Services,6081,35211,-122.1673,37.4685
+144,101381.0,4.3,Facebook App,Menlo Park,2004,Public,Internet & Web Services,6081,35211,-122.1673,37.4685
+145,61308.0,3.5,Newsflare,Culver City,,,,6037,38913,-118.3968,34.0058
+146,61308.0,3.5,Newsflare,Culver City,,,,6037,38913,-118.3968,34.0058
+147,73684.0,3.7,Synergis,Culver City,1997,Private,HR Consulting,6037,38913,-118.3968,34.0058
+148,77084.0,3.5,Disney Streaming,Santa Monica,2018,Private,Internet & Web Services,6037,91600,-118.481,34.0235
+149,77084.0,3.5,Disney Streaming,Santa Monica,2018,Private,Internet & Web Services,6037,91600,-118.481,34.0235
+150,82737.0,4.0,Disney Media & Entertainment Distribution,Santa Monica,1923,Public,Film Production,6037,91600,-118.481,34.0235
+151,58989.0,2.7,Unis Company,Buena Park,,,,6059,82228,-118.0046,33.8572
+152,59005.0,3.1,99 Ranch Market,Buena Park,1984,Private,Grocery Stores,6059,82228,-118.0046,33.8572
+153,102500.0,3.3,Webhelp Americas,San Jose,2000,Private,HR Consulting,6085,1797166,-121.848,37.3012
+154,62400.0,3.8,Agama Solutions,San Jose,,,Information Technology,6085,1797166,-121.848,37.3012
+155,97010.0,4.3,Intelliswift Software Inc,San Jose,1998,Private,HR Consulting,6085,1797166,-121.848,37.3012
+156,75000.0,2.9,Bay Area News Group,San Jose,1987,Private,Publishing,6085,1797166,-121.848,37.3012
+157,146000.0,4.2,Stryker,San Jose,1941,Public,Health Care Products Manufacturing,6085,1797166,-121.848,37.3012
+158,102500.0,3.3,Webhelp Americas,San Jose,2000,Private,HR Consulting,6085,1797166,-121.848,37.3012
+159,75000.0,2.9,Bay Area News Group,San Jose,1987,Private,Publishing,6085,1797166,-121.848,37.3012
+160,146000.0,4.2,Stryker,San Jose,1941,Public,Health Care Products Manufacturing,6085,1797166,-121.848,37.3012
+161,73670.4,3.0,Alura Workforce Solutions,Rancho Cucamonga,2002,Private,HR Consulting,6071,178060,-117.5667,34.1247
+162,62258.0,4.2,"Healthcare Staffing Professionals, Inc.",Commerce,2006,Public,Health Care Services & Hospitals,6037,12738,-118.1519,33.9963
+163,53760.0,4.0,AppleOne,Irvine,1964,Private,HR Consulting,6059,272694,-117.7738,33.6772
+164,76443.0,3.8,Amazon.com Services LLC,Irvine,1994,Public,Internet & Web Services,6059,272694,-117.7738,33.6772
+165,74132.0,4.4,Denken Solutions Inc,Irvine,2010,Private,Information Technology Support Services,6059,272694,-117.7738,33.6772
+166,82865.0,3.4,Golden State Foods,Irvine,1947,Private,Wholesale,6059,272694,-117.7738,33.6772
+167,76800.0,3.3,Datamatics Global Services Inc,Alameda,1987,Public,Information Technology Support Services,6001,79827,-122.267,37.7668
+168,77770.0,3.6,World Market,Alameda,1958,Public,Home Furniture & Housewares Stores,6001,79827,-122.267,37.7668
+169,34560.0,3.0,Full Steam Staffing,Madera,,,,6039,80218,-120.0778,36.963
+170,91200.0,4.3,"TalentBurst, Inc",Cupertino,2002,Private,Information Technology Support Services,6085,59799,-122.0466,37.3168
+171,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services,6085,59799,-122.0466,37.3168
+172,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services,6085,59799,-122.0466,37.3168
+173,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services,6085,59799,-122.0466,37.3168
+174,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services,6085,59799,-122.0466,37.3168
+175,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing,6059,172800,-117.9601,33.7787
+176,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing,6059,172800,-117.9601,33.7787
+177,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing,6059,172800,-117.9601,33.7787
+178,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing,6059,172800,-117.9601,33.7787
+179,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing,6059,172800,-117.9601,33.7787
+180,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,,6037,57053,-118.0373,34.1342
+181,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,,6037,57053,-118.0373,34.1342
+182,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,,6037,57053,-118.0373,34.1342
+183,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,,6037,57053,-118.0373,34.1342
+184,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores,6037,91354,-118.2559,33.8374
+185,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores,6037,91354,-118.2559,33.8374
+186,53595.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores,6037,91354,-118.2559,33.8374
+187,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores,6037,91354,-118.2559,33.8374
+188,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores,6037,91354,-118.2559,33.8374
+189,56253.0,3.9,JLL,Roseville,,,Real Estate,6061,138860,-121.3196,38.7703
+190,80606.0,2.9,REVOLVE,Cerritos,2003,Public,"Department, Clothing & Shoe Stores",6037,49388,-118.0686,33.8678
+191,49920.0,2.2,"Plant Source, Inc.",San Marcos,,,,6073,96219,-117.1743,33.135
+192,72500.0,2.7,"Semper Solaris Construction, Inc.",El Cajon,2012,Private,Construction,6073,103249,-116.9604,32.8017
+193,40320.0,3.8,MMC Group,Rancho Cordova,1993,Private,Business Consulting,6067,74394,-121.2527,38.5737
+194,68777.0,3.5,Molina Healthcare,Long Beach,1980,Public,Insurance Carriers,6037,462081,-118.167,33.7977
+195,60103.0,3.6,Panda Restaurant Group,Rosemead,1973,Private,Restaurants & Cafes,6037,53850,-118.0823,34.0689
+196,93038.0,3.9,QuinStreet,Foster City,1999,Public,Advertising & Public Relations,6081,33056,-122.2659,37.5553
+197,65000.0,4.2,Helm360,Oxnard,1997,Private,Information Technology Support Services,6111,378990,-119.1815,34.1964
+198,71884.0,3.8,Amazon.com Services LLC,Oxnard,1994,Public,Internet & Web Services,6111,378990,-119.1815,34.1964
+199,95879.0,3.7,Tesla,Fremont,2003,Public,Transportation Equipment Manufacturing,6001,234829,-121.9843,37.5265
+200,61650.0,4.1,Farm Credit West,Rocklin,1916,,Banking & Lending,6061,67070,-121.2489,38.8075
+201,45492.0,3.1,FDM SINGAPORE CONSULTING PTE. LTD.,Marina,1991,Public,Information Technology Support Services,6053,21966,-121.7892,36.681
+202,114000.0,3.9,DEUTSCHE BANK AKTIENGESELLSCHAFT,Marina,1870,Public,Banking & Lending,6053,21966,-121.7892,36.681
+203,43200.0,2.3,FCI Lender Services,Anaheim,,,,6059,353085,-117.8574,33.839
+204,110000.0,3.7,SpanIdea Systems,Newark,2011,Private,Computer Hardware Development,6001,48148,-122.0307,37.5201
+205,111535.0,3.6,Lucid Motors,Newark,2007,Public,Transportation Equipment Manufacturing,6001,48148,-122.0307,37.5201
+206,45120.0,3.3,"FleetGenius, LLC",Orange,,,,6059,139322,-117.8218,33.8038
+207,145000.0,3.5,HCTec,Monterey,2013,,HR Consulting,6053,28575,-121.8808,36.5919
+208,145000.0,3.5,HCTec,Monterey,2013,,HR Consulting,6053,28575,-121.8808,36.5919
+209,61067.0,4.4,"University of California, Berkeley",Berkeley,,,,6001,123065,-122.276,37.8722
+210,135627.0,3.7,Clinical Management Consultants,Saratoga,,,Human Resources & Staffing,6085,31084,-122.0263,37.2684
+211,125620.0,3.7,Clinical Management Consultants,Cathedral City,,,Human Resources & Staffing,6065,54812,-116.4642,33.8362
+212,53022.0,4.2,SHARP HEALTHCARE,La Mesa,1946,,Health Care Services & Hospitals,6073,60208,-117.0204,32.7703
+213,67650.0,3.7,Optum,El Segundo,,,Healthcare,6037,16575,-118.4018,33.917
+214,67650.0,3.7,Optum,El Segundo,,,Healthcare,6037,16575,-118.4018,33.917
