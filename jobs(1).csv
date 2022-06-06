@@ -1,0 +1,223 @@
+,Salary,Rating,Company,Location,Founded,Ownership,Industry
+0,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting
+1,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services
+2,82410.0,4.3,Intuit - Data,Los Angeles,1983,Public,Computer Hardware Development
+3,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+4,68483.0,4.4,Carfax,Ontario,1984,,Information Technology Support Services
+5,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services
+6,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Private,Shipping & Trucking
+7,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services
+8,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting
+9,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+10,45042.0,5.0,Confidential,Visalia,,,
+11,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes
+12,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Private,Investment & Asset Management
+13,100800.0,4.3,LS Solutions,Temecula,,,Human Resources & Staffing
+14,120000.0,4.1,TEKsystems,Oakland,1983,,HR Consulting
+15,42240.0,3.1,ActOne Group,Torrance,1964,Private,HR Consulting
+16,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations
+17,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting
+18,57600.0,4.0,AppleOne,Pasadena,1964,Private,HR Consulting
+19,30720.0,3.0,Volga Partners,California,,,
+20,48960.0,3.9,Robert Half,San Mateo,1948,Public,HR Consulting
+21,66534.0,3.9,ABC Entertainment,Burbank,1996,,Broadcast Media
+22,63057.0,3.9,FanDuel,Los Angeles,2009,Private,Sports & Recreation
+23,65617.0,4.0,Scripps Health,San Diego,1924,,Health Care Services & Hospitals
+24,86248.0,4.3,Intel,Folsom,1968,Public,Computer Hardware Development
+25,102143.0,4.0,SpaceX,Mountain View,2002,Private,Aerospace & Defense
+26,46080.0,3.2,Coaster Company of America,Santa Fe Springs,1979,Private,Home Furniture & Housewares Stores
+27,70643.0,4.0,"Peachjar, Inc.",San Diego,2013,Private,Advertising & Public Relations
+28,83307.0,3.6,SIS,Sunnyvale,1990,Private,Information Technology Support Services
+29,83436.0,4.9,Point,Palo Alto,2015,Private,Real Estate
+30,141600.0,4.1,Accenture,Walnut Creek,1989,Public,Business Consulting
+31,64415.0,3.3,Ross Stores,Dublin,1957,Public,"Department, Clothing & Shoe Stores"
+32,80693.0,3.8,BD,San Diego,1897,Public,Health Care Products Manufacturing
+33,77406.0,3.6,TikTok,Los Angeles,2016,Private,Internet & Web Services
+34,58110.0,4.2,California Public Utilities Commission,Sacramento,1911,,State & Regional Agencies
+35,101381.0,4.3,Facebook App,Menlo Park,2004,Public,Internet & Web Services
+36,61308.0,3.5,Newsflare,Culver City,,,
+37,77084.0,3.5,Disney Streaming,Santa Monica,2018,Private,Internet & Web Services
+38,97187.0,5.0,MoneyGeek.com,San Francisco,,,
+39,58989.0,2.7,Unis Company,Buena Park,,,
+40,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,,Investment & Asset Management
+41,90000.0,3.9,Seer Interactive,San Diego,2002,Private,Internet & Web Services
+42,84514.0,3.7,Tesla,Palo Alto,2003,Public,Transportation Equipment Manufacturing
+43,102500.0,3.3,Webhelp Americas,San Jose,2000,Private,HR Consulting
+44,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+45,68483.0,4.4,Carfax,Ontario,1984,,Information Technology Support Services
+46,88576.0,4.3,"AxleHire, Inc.",San Francisco,2015,Private,Shipping & Trucking
+47,45042.0,5.0,Confidential,Visalia,,,
+48,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+49,70000.0,5.0,Atria Wealth Solutions,San Diego,2017,Private,Investment & Asset Management
+50,120000.0,4.1,TEKsystems,Oakland,1983,,HR Consulting
+51,42240.0,3.1,ActOne Group,Torrance,1964,Private,HR Consulting
+52,30720.0,3.0,Volga Partners,California,,,
+53,73670.4,3.0,Alura Workforce Solutions,Rancho Cucamonga,2002,Private,HR Consulting
+54,62258.0,4.2,"Healthcare Staffing Professionals, Inc.",Commerce,2006,Public,Health Care Services & Hospitals
+55,135000.0,4.2,CyberCoders,San Francisco,1999,,HR Consulting
+56,53760.0,4.0,AppleOne,Irvine,1964,Private,HR Consulting
+57,76800.0,3.3,Datamatics Global Services Inc,Alameda,1987,Public,Information Technology Support Services
+58,34560.0,3.0,Full Steam Staffing,Madera,,,
+59,89000.0,3.5,Kinetic Personnel Group Inc.,Ontario,,,
+60,91200.0,4.3,"TalentBurst, Inc",Cupertino,2002,Private,Information Technology Support Services
+61,63360.0,4.1,Pacer Staffing LLC,Santa Ana,2004,Private,Information Technology Support Services
+62,88320.0,4.5,Formac,Sunnyvale,2013,Private,Information Technology Support Services
+63,92486.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services
+64,117120.0,2.9,PTS Consulting,Sunnyvale,2003,Private,HR Consulting
+65,72653.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services
+66,92111.0,3.6,TikTok,Mountain View,2016,Private,Internet & Web Services
+67,100800.0,5.0,Volto Consulting,Sunnyvale,,,
+68,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+69,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing
+70,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,
+71,100400.0,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+72,85000.0,4.0,Mission Asset Fund,San Francisco,,,Financial Services
+73,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores
+74,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting
+75,76770.0,4.1,University of California San Francisco,San Francisco,1864,,Colleges & Universities
+76,76411.0,3.7,Shriners Children's,Sacramento,1925,,Health Care Services & Hospitals
+77,86248.0,4.3,Intel,Folsom,1968,Public,Computer Hardware Development
+78,63057.0,3.9,FanDuel,Los Angeles,2009,Private,Sports & Recreation
+79,66534.0,3.9,ABC Entertainment,Burbank,1996,,Broadcast Media
+80,65617.0,4.0,Scripps Health,San Diego,1924,,Health Care Services & Hospitals
+81,102143.0,4.0,SpaceX,Mountain View,2002,Private,Aerospace & Defense
+82,62400.0,3.8,Agama Solutions,San Jose,,,Information Technology
+83,56253.0,3.9,JLL,Roseville,,,Real Estate
+84,80606.0,2.9,REVOLVE,Cerritos,2003,Public,"Department, Clothing & Shoe Stores"
+85,77406.0,3.6,TikTok,Los Angeles,2016,Private,Internet & Web Services
+86,101381.0,4.3,Facebook App,Menlo Park,2004,Public,Internet & Web Services
+87,76386.0,3.7,California Public Employees' Retirement System (CalPERS),Sacramento,1932,,Investment & Asset Management
+88,77084.0,3.5,Disney Streaming,Santa Monica,2018,Private,Internet & Web Services
+89,61308.0,3.5,Newsflare,Culver City,,,
+90,97187.0,5.0,MoneyGeek.com,San Francisco,,,
+91,62668.0,3.7,JT4,Edwards,2000,Private,Aerospace & Defense
+92,104805.0,4.1,Blue Shield of California,Oakland,1939,,Insurance Carriers
+93,96000.0,3.9,"Yoh, A Day & Zimmermann Company",Burbank,1940,Private,HR Consulting
+94,49920.0,2.2,"Plant Source, Inc.",San Marcos,,,
+95,72500.0,2.7,"Semper Solaris Construction, Inc.",El Cajon,2012,Private,Construction
+96,59005.0,3.1,99 Ranch Market,Buena Park,1984,Private,Grocery Stores
+97,140001.0,4.8,Yugabyte,Sunnyvale,,,
+98,89952.0,3.4,APR Consulting Inc,Pasadena,1980,,HR Consulting
+99,40320.0,3.8,MMC Group,Rancho Cordova,1993,Private,Business Consulting
+100,68777.0,3.5,Molina Healthcare,Long Beach,1980,Public,Insurance Carriers
+101,60103.0,3.6,Panda Restaurant Group,Rosemead,1973,Private,Restaurants & Cafes
+102,83436.0,3.3,FocusKPI Inc.,San Francisco,,,Media & Communication
+103,93038.0,3.9,QuinStreet,Foster City,1999,Public,Advertising & Public Relations
+104,67068.0,4.0,Siemens,Sacramento,2004,,Computer Hardware Development
+105,65000.0,4.2,Helm360,Oxnard,1997,Private,Information Technology Support Services
+106,76443.0,3.8,Amazon.com Services LLC,Irvine,1994,Public,Internet & Web Services
+107,96189.0,4.3,kastech software solutions,San Francisco,2008,Private,Information Technology Support Services
+108,111475.20000000001,4.3,Tellus Solutions,Palo Alto,2006,Private,Information Technology Support Services
+109,95879.0,3.7,Tesla,Fremont,2003,Public,Transportation Equipment Manufacturing
+110,61650.0,4.1,Farm Credit West,Rocklin,1916,,Banking & Lending
+111,72500.0,3.1,E Source,San Francisco,1987,Private,Energy & Utilities
+112,97010.0,4.3,Intelliswift Software Inc,San Jose,1998,Private,HR Consulting
+113,78127.0,3.8,Lucile Packard Foundation,Palo Alto,1991,,Health Care Services & Hospitals
+114,45492.0,3.1,FDM SINGAPORE CONSULTING PTE. LTD.,Marina,1991,Public,Information Technology Support Services
+115,120183.0,3.7,Tesla,Palo Alto,2003,Public,Transportation Equipment Manufacturing
+116,59812.0,5.0,Campaign Stars,Oakland,,,
+117,60149.0,3.1,Emjay,Los Angeles,,,
+118,72113.0,3.8,Blueprint Test Preparation,Los Angeles,2005,Public,Education & Training Services
+119,91960.0,4.2,Zazzle,San Francisco,1999,Private,Internet & Web Services
+120,114000.0,3.9,DEUTSCHE BANK AKTIENGESELLSCHAFT,Marina,1870,Public,Banking & Lending
+121,43200.0,2.3,FCI Lender Services,Anaheim,,,
+122,110000.0,3.7,SpanIdea Systems,Newark,2011,Private,Computer Hardware Development
+123,93114.0,3.4,Bravado,San Francisco,,,"Arts, Entertainment & Recreation"
+124,45120.0,3.3,"FleetGenius, LLC",Orange,,,
+125,74132.0,4.4,Denken Solutions Inc,Irvine,2010,Private,Information Technology Support Services
+126,70073.0,3.5,Health Net of California,Woodland Hills,1984,Public,Insurance Carriers
+127,70000.0,4.0,Cloudinfraspecs,Los Angeles,,,
+128,82737.0,4.0,Disney Media & Entertainment Distribution,Santa Monica,1923,Public,Film Production
+129,71884.0,3.8,Amazon.com Services LLC,Oxnard,1994,Public,Internet & Web Services
+130,90000.0,4.6,Art of Problem Solving,San Diego,2003,,Education & Training Services
+131,76530.0,3.3,Bambee,Los Angeles,2016,Private,Building & Personnel Services
+132,145000.0,3.5,HCTec,Monterey,2013,,HR Consulting
+133,90000.0,3.8,ENERGY SOLUTIONS,Oakland,1995,Private,Energy & Utilities
+134,73684.0,3.7,Synergis,Culver City,1997,Private,HR Consulting
+135,111535.0,3.6,Lucid Motors,Newark,2007,Public,Transportation Equipment Manufacturing
+136,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services
+137,77770.0,3.6,World Market,Alameda,1958,Public,Home Furniture & Housewares Stores
+138,75000.0,2.9,Bay Area News Group,San Jose,1987,Private,Publishing
+139,61067.0,4.4,"University of California, Berkeley",Berkeley,,,
+140,135627.0,3.7,Clinical Management Consultants,Saratoga,,,Human Resources & Staffing
+141,82865.0,3.4,Golden State Foods,Irvine,1947,Private,Wholesale
+142,125620.0,3.7,Clinical Management Consultants,Cathedral City,,,Human Resources & Staffing
+143,146000.0,4.2,Stryker,San Jose,1941,Public,Health Care Products Manufacturing
+144,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+145,97916.0,3.9,PG&E Corporation,San Francisco,1905,Public,Energy & Utilities
+146,53022.0,4.2,SHARP HEALTHCARE,La Mesa,1946,,Health Care Services & Hospitals
+147,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting
+148,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services
+149,145000.0,3.5,HCTec,Monterey,2013,,HR Consulting
+150,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+151,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+152,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing
+153,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services
+154,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services
+155,100400.0,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+156,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting
+157,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores
+158,85000.0,4.0,Mission Asset Fund,San Francisco,,,Financial Services
+159,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+160,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes
+161,48000.0,3.2,"Vigilance Health, Inc.",Ventura,2015,Private,Health Care Services & Hospitals
+162,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations
+163,57600.0,4.0,AppleOne,Pasadena,1964,Private,HR Consulting
+164,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting
+165,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services
+166,102500.0,3.3,Webhelp Americas,San Jose,2000,Private,HR Consulting
+167,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+168,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+169,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+170,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing
+171,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,
+172,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services
+173,159100.0,3.6,Peraton,Seaside,2017,Private,Information Technology Support Services
+174,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting
+175,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services
+176,75000.0,2.9,Bay Area News Group,San Jose,1987,Private,Publishing
+177,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+178,146000.0,4.2,Stryker,San Jose,1941,Public,Health Care Products Manufacturing
+179,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+180,53595.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores
+181,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations
+182,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting
+183,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services
+184,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+185,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+186,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+187,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing
+188,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,
+189,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services
+190,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services
+191,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting
+192,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores
+193,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+194,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes
+195,48000.0,3.2,"Vigilance Health, Inc.",Ventura,2015,Private,Health Care Services & Hospitals
+196,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+197,140001.0,4.8,Yugabyte,Sunnyvale,,,
+198,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations
+199,67650.0,3.7,Optum,El Segundo,,,Healthcare
+200,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting
+201,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting
+202,84326.0,4.8,RAYBEAM/DEPT®,Mountain View,1997,Private,Business Consulting
+203,75237.0,4.0,Jellysmack,Los Angeles,2016,Private,Internet & Web Services
+204,69693.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+205,77620.0,4.4,SoCalGas,Los Angeles,1929,,Energy & Utilities
+206,57453.0,4.2,Sunbit,Los Angeles,2016,Private,Banking & Lending
+207,91259.0,3.7,Clinical Management Consultants,Garden Grove,,,Human Resources & Staffing
+208,52800.0,3.7,"Southland Employment Services, Inc.",Arcadia,,,
+209,113776.0,4.0,Uber,San Francisco,2009,Public,Internet & Web Services
+210,85431.0,3.7,Astreya,Cupertino,2001,Private,Information Technology Support Services
+211,47040.0,3.9,Randstad General Staffing,Livermore,1960,Public,HR Consulting
+212,58338.0,4.3,"Lakeshore Learning Materials, LLC",Carson,1954,Private,Other Retail Stores
+213,124800.0,4.6,CorTech,San Francisco,1999,Private,Staffing & Subcontracting
+214,67402.0,3.7,The Cheesecake Factory,Calabasas,1978,Public,Restaurants & Cafes
+215,48000.0,3.2,"Vigilance Health, Inc.",Ventura,2015,Private,Health Care Services & Hospitals
+216,69427.2,4.0,UCLA Health,Los Angeles,1919,Public,Health Care Services & Hospitals
+217,140001.0,4.8,Yugabyte,Sunnyvale,,,
+218,59166.0,3.4,BrandRep,Santa Ana,2009,Private,Advertising & Public Relations
+219,67650.0,3.7,Optum,El Segundo,,,Healthcare
+220,130000.0,4.2,CyberCoders,Los Angeles,1999,,HR Consulting
+221,118080.0,3.9,Robert Half,Oceanside,1948,Public,HR Consulting
